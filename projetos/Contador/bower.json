@@ -1,0 +1,19 @@
+{
+  "name": "01-hello-world",
+  "homepage": "https://github.com/PedroSod/dadm",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/vendor/",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "materialize": "^0.100.1"
+  }
+}
